@@ -1,1 +1,29 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: green;
+}
+
+.Mycard {
+  width: 250px;
+  height: 400px;
+  background-color: white;
+  margin: auto;
+  border-radius: 5%;
+}
+
+.elem1 {
+  margin-left: 15px;
+  font-size: 80px;
+}
+
+.elem2 {
+  text-align: center;
+  font-size: 90px;
+  padding-top: 50px;
+  align-items: center;
+}
+
+.elem3 {
+  margin-left: 190px;
+  margin-top: 70px;
+  font-size: 80px;
+}
